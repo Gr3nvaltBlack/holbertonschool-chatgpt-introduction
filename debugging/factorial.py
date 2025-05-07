@@ -9,3 +9,4 @@ def factorial(n):
     return result
 
 f = factorial(int(sys.argv[1]))
+print(f)
