@@ -16,9 +16,3 @@ except ValueError:  # Gère les cas où l'argument n'est pas un entier valide
     print("Please provide a valid integer.")
     sys.exit(1)
 
-
-
-
-
-
-
